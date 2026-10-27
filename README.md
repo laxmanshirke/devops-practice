@@ -1,1 +1,2 @@
-# devops-practice
+DevOps Practice
+Learning Git and GitHub
